@@ -22,17 +22,34 @@ Changes default styles for 1st 3 headings(h1-h3), list items, paragraph, and hyp
     color: #585858;
     font-size: 18px;
   }
-  /* default style */
+  /*  */
+  h4 {
+    color: #3D95D0;
+    font-size: 20px;
+  }
+  /* list and paragraph default style */
   li, p {
     color: #585858;
     font-size:16px;
     line-height: 1.4em;
   }
-  /* default style */
+  /* hyperlink default style */
   a {
     color: #3D95D0;
     font-size: 16px;
     line-height: 1.4em;
+  }
+  /* green text */
+  .green {
+    color: #88AD1D;
+  }
+  /* italicize text */
+  .italic {
+    font-style: italic;
+  }
+  /* bolds text */
+  .bold {
+    font-weight: bold;
   }
 
 /*===========
