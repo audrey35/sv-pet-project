@@ -52,6 +52,10 @@ Changes default styles for 1st 3 headings(h1-h3), list items, paragraph, and hyp
     font-weight: bold;
   }
 
+  .fontsize14 {
+    font-size: 14;
+  }
+
 /*===========
 Changes the footer text to white, the links in the footer to white, and hover is blue.
 ============*/
